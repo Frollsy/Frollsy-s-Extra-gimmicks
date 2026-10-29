@@ -1,4 +1,4 @@
-# lr_extra_gimmicks
+# ~lr_extra_gimmicks~ **此模组已过时！**
 
 给 `vivid/stasis` 补上**原版有、但 Custom Gimmicks 模组没实现**的谱面 gimmick。
 
